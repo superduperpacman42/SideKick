@@ -1,0 +1,15 @@
+SCALE = 30 # Pixels
+WIDTH = SCALE*40 # Pixels
+HEIGHT = SCALE*26 # Pixels
+TIME_STEP = 90 # Frames per second
+SPEED = .5 # Pixels per millisecond
+JUMP_SPEED = 1.1 # Pixels per millisecond
+FALL_SPEED = 1 # Pixels per millisecond
+JUMP = 800 # Milliseconds
+RELOAD = 1000 # Milliseconds
+TIMEOUT = 10000 # Milliseconds
+BOSS_H = 0.8
+# BOSS_H = 0.1
+PIXEL_RATIO = 2
+PLAYER_SIZE = [32*PIXEL_RATIO,40*PIXEL_RATIO]
+FONT_SIZE = 40
